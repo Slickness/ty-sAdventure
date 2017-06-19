@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="forest_tiles" tilewidth="32" tileheight="32" tilecount="256">
+  <image source="LPC_forest/forest_tiles.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="257" name="tiles" tilewidth="32" tileheight="32" tilecount="475">
+  <image source="graphics/tiles.png" width="544" height="416"/>
+ </tileset>
+ <layer name="main" width="100" height="100" opacity="0">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMBKH7/qUHy6Hgqqmqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqv8AX0MnEQ==
+  </data>
+ </layer>
+ <layer name="visual" width="100" height="100" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztzjENAAAIBDE8vX9vCICdgTa5/aoA/sj1ABzKEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADA1eo4BMw==
+  </data>
+ </layer>
+ <layer name="blocker" width="100" height="100" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJzt0TEOglAURFE6JSqU4AqEHej+N8bkFyyAwveLc5LbTzLDAFzxSM/0SlOaa+cAnG7pnsbqITRLWtO7egiNP/rij774oy+ftKW9egjNN/2qRwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwVwc3XQJj
+  </data>
+ </layer>
+</map>

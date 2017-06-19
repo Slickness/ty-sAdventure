@@ -1,0 +1,20 @@
+{
+    "friends":[{
+   "name": "Penny",
+   "image": "graphics/penny.png",
+   "posx": 1,
+   "posy": 1,
+   "visable": "True",
+   "hint": "House with the red barrel"
+
+},
+{
+   "name": "Jaspur",
+   "image": "graphics/jaspur.png",
+   "posx": 2,
+   "posy": 2,
+   "visable": "True",
+   "hint": "barrel around lots of water"
+   }]
+
+}

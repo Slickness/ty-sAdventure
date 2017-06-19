@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="tiles" tilewidth="32" tileheight="32" tilecount="221">
+  <image source="graphics/tiles.png" width="544" height="416"/>
+ </tileset>
+ <tileset firstgid="222" name="tiles2" tilewidth="32" tileheight="32" tilecount="128">
+  <image source="graphics/tiles2.png" width="512" height="256"/>
+ </tileset>
+ <tileset firstgid="350" name="DungeonCrawl_ProjectUtumnoTileset" tilewidth="32" tileheight="32" tilecount="3072">
+  <image source="graphics/DungeonCrawl_ProjectUtumnoTileset.png" width="2048" height="1536"/>
+ </tileset>
+ <tileset firstgid="3422" name="magecity" tilewidth="32" tileheight="32" tilecount="360">
+  <image source="graphics/magecity.png" width="256" height="1450"/>
+ </tileset>
+ <layer name="main" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztw8EJAAAMA6F7Zv+JC51DwVVTVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVX/AbQ6OJA=
+  </data>
+ </layer>
+ <layer name="objects" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt1TlOxEAQBdC+gH0jljNMNDkSW8CwBSwJSzT5iCMAESFwPMpogqZBxkJ4sPB70pfcHZXqq+WUGLJplvK+cV2ndBO5jZzVq51tjNr6aPa/G9mL7EeudNKraWrvo9n/YeQochw5WXbylbteJ/3fml3P0+c+yvvt2P1O5DxyEbks3sckssjCz8073B/E7mf1x39I/j62+hxwZLr08Z3T3xiEdxuRtcj68nuz47m8Y1juq5QesjxWfz3RuD1V7WdWSx/Doo9heY79v2R51QcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQeANTriyV
+  </data>
+ </layer>
+ <layer name="blocker" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt27tOFGEAhuHZ0gJKJSHxzKFRE43aWyC9hCsgRqgRz60Y9WK4IrC1QUrs/Cb7/wnCCowM8sZ9n+TL7A7sZMMbMmzBVtM0W/9wy+7YtT+jF9lqttb87nY2k82W59PNUUvZk+z7gbUujfheHa/2eJO9zd6V86/L8WH2KHt8wnWeZT+z/XJs2aO72uNz9iX7eujrC9nTbPGE67Q97mR3s3vlnD26qz3OamXEuec9XHfc1B43BsPn7fHwDp7/k5fZRnm8UfbqvN70f6yv34+P2WZ5vFn2qYfrjpu+eqgf9mCpPbaznexbx9evT+TeMXH0/OXJprmSTU2e9R2Ol9pjN/uR7XV8/fu0+DCix9V0uJZdt0cntcdpP2ec1mw6zGXz9ujE+weLPVjswVJ73Mxn71uD4VEXp/a4nw4PBsOjLs55/X2lv+P9g8UeLPZgsQeLPVjswWIPFnuw2IPFHiz2YLEHiz1Y7MFiD5b6PyBisAeLPVjswWIPFnuw2IPFHiz2YLEHiz1Y7MFiDxZ7sNiDxR4s9mCxB4s9WOzBYg8We7DYg8UeLPZgsQeLPVjswWIPFnuw2IPFHiz2YLEHiz1Y7MFiDxZ7sNiDxR4s9mCxB4s9WOzBYg8We7DYg8UeLPZgsQeLPVjswWIPFnuw2IPFHiz2YLEHiz1Y7MFiDxZ7sNiDxR4s9mCxB8uyw+0XmJC6+A==
+  </data>
+ </layer>
+</map>
